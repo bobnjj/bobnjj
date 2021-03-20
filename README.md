@@ -1,4 +1,17 @@
-### Hi there 👋
+![Bala Raman's GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=bobnjj&show_icons=true&theme=radical)
+
+###  ✨ Bala Raman's GitHub Profile ✨
+```
+- ⚡ Motto: Learning something new everyday. 
+- ✨ Experimenting new features of Github. Simple, but powerfull and amazing.
+- 🌱 Using Microsft Office dynamic Forms to create Surveys and Quiz. Checkout https://forms.office.com, you might need microsoft account to make use this features.
+```
+
+- 👯 Collaborating with IBM Team, RedHat Team and our own Middleware, Netowrking & Security team bring hybrid cloud to enterprise. It will be used deploy legacy Java applications, create BI/AI applications, Centralized notifications and printing 
+- 🌱 Learning to idendify various products like openshift, rancher, k8s and k3s etc ...
+- ⚡ Integrating Nexus3, Jenkins, Github all in CI/CD pipeline automation
+- 🔭 Working on migrating some old mobile apps and creating some new apps. Too many choices Ionic, React Native, Flutter, Onsen UI, NativeScript and plain Cordova with JS/html so on; it's really hard pick a winnner. Depends teams knowledge and efforts involved all together plays role in pick a product.
+
 
 <!--
 **bobnjj/bobnjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
