@@ -1,6 +1,6 @@
-![Bala Raman's GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=bobnjj&show_icons=true&theme=radical)
+![GitHub Stats Summary](https://github-readme-stats.vercel.app/api?username=bobnjj&show_icons=true&theme=radical)
 
-###  ✨ Bala Raman's GitHub Profile ✨
+###  ✨ GitHub Profile ✨
 ```
 - ⚡ Motto: Learning something new everyday. 
 - ✨ Experimenting new features of Github. Simple, but powerfull and amazing.
